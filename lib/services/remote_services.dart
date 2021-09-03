@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:getx_shopping_app/models/product.dart';
 import 'package:http/http.dart' as http;
 
